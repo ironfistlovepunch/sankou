@@ -13,9 +13,7 @@ https://73spica.hatenablog.com/entry/binwalk-install/
 
 binwalk 2.3  
 python setup.py install  
-場所    
-C:\Users\%USERNAME%\AppData\Local\Programs\Python\Python39\Lib\site-packages\binwalk-2.3.3-py3.9.egg\EGG-INFO\scripts  
-pyinstaller --onefile binwalk
+pyinstaller --onefile binwalk.py
 
 バッチファイルからBashシェルスクリプトを実行する方法  
 https://eng-notebook.com/post-3388/  
