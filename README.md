@@ -11,6 +11,8 @@ binwalk
 https://github.com/ReFirmLabs/binwalk  
 https://73spica.hatenablog.com/entry/binwalk-install/  
 
+バッチファイルからBashシェルスクリプトを実行する方法  
+https://eng-notebook.com/post-3388/  
 
 その他  
 https://github.com/farmerbb/RED-Project/issues/177  
