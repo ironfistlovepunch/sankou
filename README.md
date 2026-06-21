@@ -7,6 +7,10 @@ https://i486.mods.jp/ichild/sample-page/android_neogeo
 forcecrc32  
 https://www.nayuki.io/page/forcing-a-files-crc-to-any-value  
 
+binwalk  
+https://github.com/ReFirmLabs/binwalk  
+https://73spica.hatenablog.com/entry/binwalk-install/  
+
 
 その他  
 https://github.com/farmerbb/RED-Project/issues/177  
